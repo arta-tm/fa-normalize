@@ -12,6 +12,10 @@
 
 A Javascript library for normalizing persian text in web graphic like svg or canvas
 
+### Demo
+
+[Demo with SVG.js](https://codepen.io/sajjad-ser/full/MXzGvz/)
+
 ### Install
 
 ```bash
